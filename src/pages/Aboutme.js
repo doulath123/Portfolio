@@ -19,7 +19,7 @@ function Aboutme() {
                 className="aboutme-img"
                 height="auto"
                 width="300"
-                src={aboutme.imgLink}
+                src="../DoulathProfile.jpg"
                 alt="profile pic"
               />
             </div>

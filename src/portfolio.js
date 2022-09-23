@@ -16,16 +16,16 @@ export const main = {
   name: "NAYAB SYED DOULATH BASHA",
   doamin: "A MERN Stack Web Developer",
   resume:
-    "https://drive.google.com/file/d/1AHLDqg4P8ubrLjFpaDa52CvlrRxibpQl/view?usp=sharing",
+    "https://drive.google.com/file/d/1emlfLwZatVgqKmPlziqhb-ZHbPBTsTSo/view?usp=sharing",
 };
 
 // AboutMe
 export const aboutme = {
   imgLink:
-    "https://media-exp1.licdn.com/dms/image/C5603AQE44OqIDu6IRg/profile-displayphoto-shrink_400_400/0/1643549146299?e=1652918400&v=beta&t=N5oHS-X98-Gz-umWn7RhmzrN1jrfYtaEu8RFWZe844U",
-  p1: "Hey, My name is Nayab Syed Doulath Basha. I have completed my  Graduation  from  Rayalaseema University, Kurnool with 7.4 CGPA.",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN3ccwuc5chK-3BMAvOpF2FU6l5HRaCTHv-7LRsWCKSg&s",
+  p1: "Hey, My name is Nayab Syed Doulath Basha. I have completed my  graduation  from  Rayalaseema University, Kurnool with 7.4 CGPA.",
   p2: " I'm a passionate coder and an enthusiastic Web Developer capable of applying programming skills to solve complex problems. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.",
-  p3: "Apart from coding I also like playing Chess, Cricket and listning music.",
+  p3: "Apart from coding I also like playing Chess, Cricket and listening music.",
 };
 
 // Skills
